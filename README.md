@@ -21,7 +21,7 @@ Master-master — это симметричная архитектура, где
 ## master:
 <img width="1201" height="177" alt="image" src="https://github.com/user-attachments/assets/67e51494-27eb-4202-8156-e17c44d92f74" />
 
-## результат
+## результат на slave:
 <img width="804" height="825" alt="image" src="https://github.com/user-attachments/assets/d58441fe-3b68-400e-b76d-70ffb4d54927" />
 
 
