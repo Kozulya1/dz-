@@ -14,18 +14,18 @@ Master-master — это симметричная архитектура, где
 
 5. Риски: в master-slave — единая точка отказа для записи; в master-master — риск конфликтов при одновременной записи в одни и те же данные на обоих серверах.
 ### Задание 2
-
-<img width="978" height="860" alt="image" src="https://github.com/user-attachments/assets/698380ce-4777-4efe-a6a4-912cd8e0e302" />
-
-
-статуст реплики
+slave:
 <img width="1011" height="1249" alt="image" src="https://github.com/user-attachments/assets/6704b941-46be-4071-89b6-28750a9941c0" />
+<img width="1092" height="142" alt="image" src="https://github.com/user-attachments/assets/dfa6aabd-be9b-4872-b49c-49f1c17f9f45" />
+
+master:
+<img width="1201" height="177" alt="image" src="https://github.com/user-attachments/assets/67e51494-27eb-4202-8156-e17c44d92f74" />
 
 проверка работы
 <img width="804" height="825" alt="image" src="https://github.com/user-attachments/assets/d58441fe-3b68-400e-b76d-70ffb4d54927" />
 
-conf master
-<img width="1201" height="177" alt="image" src="https://github.com/user-attachments/assets/67e51494-27eb-4202-8156-e17c44d92f74" />
 
-conf slave
-<img width="1092" height="142" alt="image" src="https://github.com/user-attachments/assets/dfa6aabd-be9b-4872-b49c-49f1c17f9f45" />
+
+
+
+
